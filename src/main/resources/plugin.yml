@@ -1,0 +1,6 @@
+name: Haramdetector
+version: "1.0"
+main: de.haramdetector.Haramdetector
+api-version: "1.21"
+authors: [akaya]
+description: Detecting Haram
